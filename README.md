@@ -18,6 +18,10 @@ Memwyre pattern for Muse Code persistent memory.
 Open Muse Code and run `/plugins` to browse, install from local file, or
 enable. Review source before approving (community plugin, not reviewed by Meta).
 
+## Author
+
+Alfonso de la Guarda Reyes <alfonsodg@gmail.com>
+
 ## License
 
 MIT
